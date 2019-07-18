@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace CoffeeToCode.Api
+namespace CoffeeToCode.Api.Travel
 {
     public class Program
     {

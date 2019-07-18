@@ -4,8 +4,8 @@
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
-      "applicationUrl": "http://localhost:24838",
-      "sslPort": 44334
+      "applicationUrl": "http://localhost:53336",
+      "sslPort": 44344
     }
   },
   "profiles": {
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "CoffeeToCode.Api": {
+    "CoffeeToCode.Api.Photography": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",

@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace CoffeeToCode.Api
+namespace CoffeeToCode.Api.Casts
 {
     public class Startup
     {
