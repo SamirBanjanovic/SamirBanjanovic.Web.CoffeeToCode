@@ -1,0 +1,16 @@
+﻿a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.fa-github {
+    color: purple;    
+}
+
+.fa-linkedin {
+    color: blue;
+}
+
+.fa-flickr {
+    color: deeppink;
+}
